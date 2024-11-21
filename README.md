@@ -45,7 +45,7 @@ and on another terminal, write:
     $ros2 bag play <bag_file_name>
 
 
-##Pay attention
+## Pay attention
 
 To select the desired trajectory among the 4 possible options, go to the kdl_planner.h file and set the choice_traj variable as follows:
 
