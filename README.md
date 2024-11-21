@@ -43,7 +43,8 @@ and on another terminal, write:
     $cd src/Homework2/ROSBAG_PUNTO_3/<bag_directory_name>
 
     $ros2 bag play <bag_file_name>
-
+    
+to rewatch ROSBAG_PUNTO_4 substitute "ROSBAG_PUNTO_3" in line 43 with "ROSBAG_PUNTO_4"
 
 ## Pay attention
 
